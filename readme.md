@@ -1,24 +1,6 @@
 **Medicare Fraud Detection Analysis**
 
-**Table of Contents**
 
--   [[Overview]{.underline}](#overview)
-
--   [[Dataset]{.underline}](#dataset)
-
--   [[Technologies]{.underline}](#technologies)
-
--   [[Installation]{.underline}](#installation)
-
--   [[Usage]{.underline}](#usage)
-
--   [[Visualizations]{.underline}](#visualizations)
-
--   [[Contributing]{.underline}](#contributing)
-
--   [[License]{.underline}](#license)
-
--   [[Contact]{.underline}](#contact)
 
 **Overview**
 
